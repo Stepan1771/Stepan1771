@@ -1,4 +1,6 @@
-<h2 align="left">Hello, World 👋! My name is Stepan and I'm a Python backend developer</h2>
+<h2 align="left"> <img src="output/python.gif" width="70"/>Hello, World 👋! My name is Stepan and I'm a Python backend developer <img src="output/python.gif" width="70"/> </h2>
+
+###
 
 <div align="left">
   <a href="https://t.me/BonusYou" target="_blank">
@@ -6,29 +8,6 @@
   </a>
 </div>
 
----
+###
 
-### 🧠 HARD skills
-
-**Web frameworks**
-- FastAPI, Django
-
-**DB**
-- PostgreSQL, MS SQL Server, SQLite
-- Redis, MongoDB, ClickHouse
-
-**Infra**
-- RabbitMQ, Kafka
-- Docker, Kubernetes
-- Celery
-- CI/CD
-
----
-
-### 📫 Contacts
-- Telegram: @BonusYou 
-- Email: stepan-karpov-2025@mail.ru
-
----
-
-<sub>Less hype, more substance.</sub>
+![snake](output/snake.svg)
